@@ -1,5 +1,0 @@
-stopwords
-punkt
-corpus
-stem
-porter
